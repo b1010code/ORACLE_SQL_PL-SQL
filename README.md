@@ -1,1 +1,3 @@
-# ORACLE_SQL_PL-SQL
+# ORACLE SQL e PL-SQL
+
+Estudos, testes e práticas...
