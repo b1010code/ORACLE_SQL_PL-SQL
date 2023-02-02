@@ -1,4 +1,116 @@
-# ORACLE SQL e PL-SQL
+#   ORACLE SQL e PL/SQL  -  SENIOR
 
-Estudos, testes, práticas, anotações, etc...
+#  SQL ANSI
+
+ - OPERADORES DE COMPARAÇÃO
+
+ - OPERADORES MATEMATICOS
+
+ - OPERADORES LOGICOS 
+
+#  Language Statements
+
+ - DML
+
+ - DDL 
+
+ - DCL GRANT
+
+ - DCL REVOKE
+
+# SQL
+
+ - Operador UNION / UNION ALL
+
+ - JOINS
+
+ - SUBQUERYS
+
+# Funções Padrões
+
+ - AGREGAÇÃO 
+
+ - CARACTERES 
+
+ - CLASSIFICAÇÃO
+
+ - CONTROLE DE FLUXO
+
+ - FUNÇÕES MATEMATICAS
+
+ - CRIPTOGRAFIA
+
+ - LIMITE
+ 
+ - CONVERSÃO
+
+ - DATA 
+
+ - FUNÇÕES DE INFORMAÇÃO DO SISTEMA
+
+# Views e Temp Table
+
+ - VIEWS
+
+ - TEMP TABLE
+
+# PL / SQL
+
+ - CONJUNTO DE CARACTERS
+ 
+ - VARIAVEIS
+ 
+ - ATRIBUTOS TYPE E ROWTYPE
+                  
+ - TIPO DE REGISTRO
+
+ - ESCOPO DE VARIAVEIS
+
+ - IDENTIFICADORES
+
+ - BLOCOS ANÔNIMOS
+
+ - ESTRUTURA IF-THEN / IF-THEN-ELSE / IF-THEN-ELSIF
+
+ - ESTRUTURA CASE WHEN
+
+ - GOTO
+
+ - LOOP FOR
+ 
+ - LOOP WHILE
+
+ - LOOP CONTINUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
