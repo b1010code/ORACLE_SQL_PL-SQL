@@ -88,19 +88,34 @@
 
 # Cursores PL/SQL
 
- - CURSORES PARTE 1
+ - CURSORES 1
 
- - CURSORES PARTE 2
+ - CURSORES 2
 
- - CURSORES PARTE 3
+ - CURSORES 3
 
- - CURSORES PARTE 4
+ - CURSORES 4
 
- - CURSORES PARTE 5
+ - CURSORES 5
 
- - CURSORES PARTE 6
+ - CURSORES 6
+
+ - CURSORES 6
 
 
+# Funções
+
+ - FUNÇÕES 1
+
+ - FUNÇÕES 2
+
+ - FUNÇÕES 3
+
+ - FUNÇÕES 4
+
+ - FUNÇÕES 5
+
+ - FUNÇÕES 6
 
 
 
