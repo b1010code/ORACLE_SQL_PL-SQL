@@ -8,6 +8,9 @@
 
  - OPERADORES LOGICOS 
 
+
+
+
 #  Language Statements
 
  - DML
@@ -18,6 +21,9 @@
 
  - DCL REVOKE
 
+
+
+
 # SQL
 
  - Operador UNION / UNION ALL
@@ -25,6 +31,9 @@
  - JOINS
 
  - SUBQUERYS
+
+
+
 
 # Funções Padrões
 
@@ -48,11 +57,17 @@
 
  - FUNÇÕES DE INFORMAÇÃO DO SISTEMA
 
+
+
+
 # Views e Temp Table
 
  - VIEWS
 
  - TEMP TABLE
+
+
+
 
 # PL / SQL
 
@@ -82,9 +97,15 @@
 
  - LOOP CONTINUE
 
+
+
+
 # Excessões
 
 - TRATANDO EXCESSÕES
+
+
+
 
 # Cursores PL/SQL
 
@@ -103,6 +124,9 @@
  - CURSORES 6
 
 
+
+
+
 # Funções
 
  - FUNÇÕES 1
@@ -116,6 +140,8 @@
  - FUNÇÕES 5
 
  - FUNÇÕES 6
+
+
 
 
 # Procedures
@@ -136,6 +162,8 @@
 
 
 
+
+
 # Triggers 
 
  - TRIGGERS EXEMPLOS
@@ -145,6 +173,12 @@
 # Packages 
 
  - PACKAGE EXEMPLO
+
+
+
+# Pivots
+
+ - Transformando linhas em colunas
 
 
 
