@@ -135,6 +135,9 @@
  - PROCEDURES ESTOQUE  2
 
 
+# Triggers 
+
+ - TRIGGERS EXEMPLOS
 
 
 
